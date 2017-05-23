@@ -1,0 +1,27 @@
+{
+  "name": "wildfly-clu",
+  "version": "0.1.1",
+  "maintainer": "Eugenio Marzo",
+  "maintainer_email": "eugenio.marzo@yahoo.it",
+  "description": "install and configure Wildfly 8 in domain mode (use vagrant to set up quickly a cluster)",
+  "license": "GPL",
+  "platforms": {
+  },
+  "dependencies": {
+  },
+  "recommendations": {
+  },
+  "suggestions": {
+  },
+  "conflicting": {
+  },
+  "providing": {
+  },
+  "replacing": {
+  },
+  "attributes": {
+  },
+  "groupings": {
+  },
+  "recipes": {
+  }}
